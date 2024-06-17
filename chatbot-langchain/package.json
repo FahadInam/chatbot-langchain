@@ -1,0 +1,19 @@
+{
+  "name": "chatbot-langchain",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.5",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.0.151"
+  }
+}
